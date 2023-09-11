@@ -30,24 +30,23 @@ until the player runs out of lives. This game fulfills all expectations of the p
 aside from displaying the lives and score during the nano games themselves.
 
 Example Progression of Game:
-Instructions Screen
-Menu Screen
-High Score Screen (no
-games played)
-Title Screen
-Pre-Game (Meter Filler)
+Instructions Screen ->
+Menu Screen ->
+High Score Screen ->
+Title Screen ->
+Pre-Game (Meter Filler) ->
 Meter Filler (Bar not
-pressed in time)
+pressed in time) ->
 Meter Filler (Bar is
-growing)
+growing) ->
 Meter Filler (Bar filled
-but timer not expired)
+but timer not expired) ->
 Pre-Game (Direction
-Obeyer)
+Obeyer) ->
 Direction Obeyer
-(Success state)
+(Success state) ->
 Pre-Game (Color
-Confirmer)
+Confirmer) ->
 Color Confirmer
 (Success State)
 
