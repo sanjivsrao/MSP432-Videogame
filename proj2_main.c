@@ -1,8 +1,8 @@
-/**
- * Starter code for Project 2. Good luck!
+/*
+ * App_proj2.h
  *
- * We recommending copy/pasting your HAL folder from Project 1
- * into this project.
+ *  Created on: March 3, 2023
+ *      Author: Sanjiv Rao
  */
 
 #include <ti/devices/msp432p4xx/driverlib/driverlib.h>
